@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>[Bài tập] Biến kiểu dữ liệu và toán tử</title>
+</head>
+<body>
+   <h2>Ex 4</h2>
+        <p>Enter radius</p>
+            <input type="number" id="Radius">
+        <br><button onclick="S()">Click</button>
+    <p id="perimeter"></p>
+    <script>
+        function S() {
+            var radius = document.getElementById("Radius").value;
+            var perimeter = 2 * radius * 3.14;
+            document.getElementById("perimeter").innerHTML = "Perimeter: " + perimeter;
+        }
+    </script>
+
+
+
+</body>
+</html>
