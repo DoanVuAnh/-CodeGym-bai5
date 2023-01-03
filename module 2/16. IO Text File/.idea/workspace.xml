@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00bfe740-dd5a-414a-b9be-0c71e9ab2509" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../helloword/helloword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../helloword/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../helloword/src/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module 1/baitap5/chanle/DEMO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module 1/baitap5/chanle/tEST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/Exercise_ApplicationToReadNumbersIntoWords/Exercise_ApplicationToReadNumbersIntoWords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/Exercise_CurrencyConversion/Exercise_CurrencyConversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/Exercise_ShowGreetings/Exercise_ShowGreetings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/Practice_BMI/Practice_BMI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/Practice_DaysInAMonth/Practice_DaysInAMonth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/Practice_SolvingFirst-orderEquations/Practice_SolvingFirst-orderEquations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/Practice_UsingTheOperator/Practice_UsingTheOperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/[Practice] Declare and use variableAssignment/Introduction_to_Java/Introduction_to_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. Introduction to Java/[Practice] Declare and use variableAssignment/Introduction_to_Java/src/index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Exercise_InvertTheElement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Exercise_InvertTheElement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Exercise_InvertTheElement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Exercise_InvertTheElement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Exercise_InvertTheElement/Exercise_InvertTheElement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Exercise_InvertTheElement/src/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_ImplementASimpleListClass/Practice_ImplementASimpleListClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_ImplementASimpleListClass/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_ImplementASimpleListClass/src/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_QueueImplementation/Practice_QueueImplementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_QueueImplementation/src/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_QueueImplementation/src/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_QueueImplementation/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_StackImplementationUsingLinkedListClass/Practice_StackImplementationUsingLinkedListClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_StackImplementationUsingLinkedListClass/src/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10. DSA Danh sách/Practice_StackImplementationUsingLinkedListClass/src/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. Java Collection Framewo/Practice_DistinguishingBetweenHashMapAndHashSet/Practice_DistinguishingBetweenHashMapAndHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. Java Collection Framewo/Practice_DistinguishingBetweenHashMapAndHashSet/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. Java Collection Framewo/Practice_UsingHashMapLinkedHashMapTreeMapToSaveAListOfStudentsByAge/Practice_UsingHashMapLinkedHashMapTreeMapToSaveAListOfStudentsByAge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. Java Collection Framewo/Practice_UsingHashMapLinkedHashMapTreeMapToSaveAListOfStudentsByAge/src/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Sorting Algorithm/Practice_SettinGUpTheBubbleSort/Practice_SettinGUpTheBubbleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14. Sorting Algorithm/Practice_SettinGUpTheBubbleSort/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Exercise_UsingIllegalTriangleExceptionClass/Exercise_UsingIllegalTriangleExceptionClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Exercise_UsingIllegalTriangleExceptionClass/src/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Practice_DebuggingJavaApplication/Practice_DebuggingJavaApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Practice_DebuggingJavaApplication/src/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Practice_UsingArrayIndexOutOfBoundsExceptionClass/Practice_UsingArrayIndexOutOfBoundsExceptionClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Practice_UsingArrayIndexOutOfBoundsExceptionClass/src/CreateRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Practice_UsingNumberFormatExceptionClass/Practice_UsingNumberFormatExceptionClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15. Exception Handling &amp; Debug/Practice_UsingNumberFormatExceptionClass/src/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_SumOfNumbersInTextFile/src/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_SumOfNumbersInTextFile/src/number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_SumOfNumbersInTextFile/src/readFileText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFileClass/src/CreateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFileClass/src/ReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFileClass/src/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFileClass/src/TestFileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFileClass/src/Text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFileClass/src/WriteDataWithAutoClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Exercise_ManageProductsToBinaryFiles/Exercise_ManageProductsToBinaryFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Exercise_ManageProductsToBinaryFiles/src/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Exercise_ManageProductsToSaveToBinaryFiles/Exercise_ManageProductsToSaveToBinaryFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Exercise_ManageProductsToSaveToBinaryFiles/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Practice_CopyLargeFiles/Practice_CopyLargeFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Practice_CopyLargeFiles/src/DestinationDemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Practice_CopyLargeFiles/src/SourceDemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Practice_ReadAndWriteListOfStudentsToBinaryFile/Practice_ReadAndWriteListOfStudentsToBinaryFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17. IO Binary File &amp; Serialization/Practice_ReadAndWriteListOfStudentsToBinaryFile/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18. Threading/Practice_RacingCars/Practice_RacingCars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18. Threading/Practice_RacingCars/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/ExerciseDisplayTheFirst20Primes/ExerciseDisplayTheFirst20Primes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/ExerciseDisplayTheFirst20Primes/src/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Exercise_DisplayOfTypes/Exercise_DisplayOfTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Exercise_DisplayOfTypes/src/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Exercise_DisplayingPrimesLessThan100/Exercise_DisplayingPrimesLessThan100.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Exercise_DisplayingPrimesLessThan100/src/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Practice_CheckingPrimeNumbers/Practice_CheckingPrimeNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Practice_CheckingPrimeNumbers/src/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Practice_DesigningMenusForApps/Practice_DesigningMenusForApps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Practice_DesigningMenusForApps/src/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Practice_DesigningMenusForApps/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Practice_InterestCalculator/Practice_InterestCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Loops in Java/Practice_InterestCalculator/src/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3. Arrays and Methods in Java/Practice_FindValueInArray/Practice_FindValueInArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3. Arrays and Methods in Java/Practice_ReverseTheElementsOfAnArray/Practice_ReverseTheElementsOfAnArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3. Arrays and Methods in Java/Practice_ReverseTheElementsOfAnArray/src/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Classes and Objects in Java/Exercise_ConstructingAQuadraticEquationLayer/Exercise_ConstructingAQuadraticEquationLayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Classes and Objects in Java/Exercise_ConstructingAQuadraticEquationLayer/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Classes and Objects in Java/Practice_RectangleClass/Practice_RectangleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Classes and Objects in Java/Practice_RectangleClass/src/ClassRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Exercise_AccessModifier/Exercise_AccessModifier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Exercise_AccessModifier/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Mini_test/Mini_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Mini_test/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Mini_test/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_StaticMethod/Practice_StaticMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_StaticProperty/Practice_StaticProperty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_StaticProperty/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_StaticProperty/src/TestStaticProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_System_Of_Geometric_Objects/Practice_System_Of_Geometric_Objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_System_Of_Geometric_Objects/src/CircleByCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_System_Of_Geometric_Objects/src/RectangleByRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_System_Of_Geometric_Objects/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. Access modifier, static method, static property/Practice_System_Of_Geometric_Objects/src/SquareBySquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_CircleClassAndCylinderClass/Exercise_CircleClassAndCylinderClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_CircleClassAndCylinderClass/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_CircleClassAndCylinderClass/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_Point2DClassAndPoint3DClass/Exercise_Point2DClassAndPoint3DClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_Point2DClassAndPoint3DClass/src/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_Point2DClassAndPoint3DClass/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_PointClassAndMoveablePoint/Exercise_PointClassAndMoveablePoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_PointClassAndMoveablePoint/src/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Exercise_PointClassAndMoveablePoint/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Inheritance/Practice_ReverseTheElementsOfAnArray/Practice_ReverseTheElementsOfAnArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Exercise_CalculateTheNextDay/Exercise_CalculateTheNextDay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Exercise_CalculateTheNextDay/src/NextDayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Exercise_ClassificationOfTriangles/Exercise_ClassificationOfTriangles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Exercise_ClassificationOfTriangles/Test/TriangleClassifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Exercise_ClassificationOfTriangles/src/TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Mini_test_inheritance/Mini_test_inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Mini_test_inheritance/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Mini_test_inheritance/src/FictionBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Mini_test_inheritance/src/ProgrammingBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Practice_FindTheAbsoluteValue/Practice_FindTheAbsoluteValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Practice_FindTheAbsoluteValue/Test/AbsoluteNumberCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Practice_FindTheAbsoluteValue/src/AbsoluteNumberCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Practice_SimpleCalculatorApp/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9. Automated Testing &amp; TDD/Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/Case_Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/LogIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/SortStudentByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/SortStudentGetBiggerByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/SortStudentGetSmallerByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/Student" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Case_Study/src/StudentMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/Module_APwithJava2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/SortStudentGetBiggerByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/SortStudentGetSmallerByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/Student" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/Student.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case Module 2/Module_APwithJava2.0/src/StudentMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Test/AbstractClassAndInterface/AbstractClassAndInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Test/AbstractClassAndInterface/src/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Test/Sort/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Test/Sort/src/Inserton_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Test/Sort/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Test/Sort/src/SelecyionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Test/Test-Ex1/Test-Ex1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Account/Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Account/src/Account/AccManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Account/src/Account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Account/src/Account/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/ClassDog/ClassDog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/ClassDog/src/ClassDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/ClassDog/src/DogManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/ListDog/ListDog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/ListDog/src/ClassDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/ListDog/src/DogSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Product/Product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Product/src/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Product/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/Product/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/map/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/map/src/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapthem/map/src/AccountMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai10/[Practice] Using a FOR loop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai10/[Practice] Using a do-while loop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai10/[Practice] Using nested loops/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai10/[Practice] Using while loop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Loop Practice 01/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Loop Practice 01/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Loop Practice 01/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Loop Practice 01/Bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Multiplication table/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Multiplication table/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Show the first primes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai11/[Exercise] Show the first primes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai12/[Practice] Creating and manipulating arrays/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai12/[Practice] Find the largest value in an array/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai12/[Practice] Find value in array/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai12/[Practice] Reverse the elements in an array/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai13/[Exercise] Dictionary/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai13/[Exercise] Using built-in functions of arrays/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai13/[Exercise] Using built-in functions of arrays/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai13/[Exercise] Using built-in functions of arrays/index2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai13/[Exercise] Using built-in functions of arrays/index3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai5/[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai5/[Thực hành] Tạo bảng cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai5/[Thực hành] Tạo bảng nâng cao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai5/[Thực hành] Tạo form cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai5/[Thực hành] Tạo một form tìm kiếm Google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai5/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai8/[Thực hành] Kiểm tra năm nhuận/tinhnamnhuan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai8/[Thực hành] Kiểm tra năm nhuận/tinhnamnhuan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai8/[Thực hành] Luyện tập với cấu trúc if-else/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai8/[Thực hành] Luyện tập với cấu trúc if...else...if/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai8/[Thực hành] Luyện tập với cấu trúc if...else...if/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai9/[Practice] Exercises/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai9/[Practice] Exercises/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai9/[Practice] Mouse EventAssignment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../-CodeGym-Bai9/[Practice] Mouse EventAssignment/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML co ban/[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML co ban/[Thực hành] Tạo bảng cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML co ban/[Thực hành] Tạo bảng nâng cao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML co ban/[Thực hành] Tạo form cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML co ban/[Thực hành] Tạo một form tìm kiếm Google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML co ban/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/.idea/JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/[Thực hành] Khai báo và sử dụng biến.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS/[Thực hành] Sử dụng toán tử.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap5/[Bài tập] Tạo giao diện form đăng ký người dùng.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap5/chanle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap5/test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HqA5uxiNKmdSLYl1VFGNS5DCaC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/bai tap/module 2/16. IO Text File"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00bfe740-dd5a-414a-b9be-0c71e9ab2509" name="Changes" comment="" />
+      <created>1669002059440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669002059440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

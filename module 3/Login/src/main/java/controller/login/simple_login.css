@@ -1,0 +1,31 @@
+
+
+.menu{
+    background: darkseagreen;
+
+}
+.home-login{
+    overflow-block: auto;
+}
+.login {
+    /*height:180px; width:290px;*/
+    margin: 0 auto;
+    text-align: center;
+    background: aquamarine;
+
+    /*padding:10px;*/
+    /*border:1px #CCC solid;*/
+}
+.login input {
+    padding:5px; margin:5px
+}
+
+.signup-connect{
+    background: cadetblue;
+    text-align: center;
+}
+
+.icon {
+    width: 1.5%;
+}
+
